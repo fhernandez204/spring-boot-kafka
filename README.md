@@ -5,11 +5,10 @@ https://www.geeksforgeeks.org/how-to-install-and-run-apache-kafka-on-windows/
 
 Apache Kafka es una aplicación de código abierto que se utiliza para transmisiones en tiempo real de grandes cantidades de datos. Apache Kafka es un sistema de mensajería de publicación y suscripción. Un sistema de mensajería le permite enviar mensajes entre procesos, aplicaciones y servidores. En términos generales, Apache Kafka es un software donde se pueden definir y procesar temas.
 
-
-# INSTALAR Y EJECUTAR APACHE KAFKA EN WINDOWS
-
 ![image](https://github.com/fhernandez204/spring-boot-kafka/blob/main/SpringBootProducerConsumer.jpg)
 
+
+# INSTALAR Y EJECUTAR APACHE KAFKA EN WINDOWS
 Descarga la instalación
 Apache Kafka se puede descargar desde su sitio oficial kafka.apache.org
 
