@@ -32,13 +32,13 @@ Para la instalacion, realice los siguentes pasos:
 
     .\bin\windows\zookeeper-server-start.bat .\config\zookeeper.properties
 
-    ![image](https://github.com/fhernandez204/spring-boot-kafka/blob/main/kafka3.jpg)
+![image](https://github.com/fhernandez204/spring-boot-kafka/blob/main/kafka3.jpg)
 
     Paso 6: Ahora abra otro símbolo del sistema y cambie el directorio a la carpeta kafka. Ejecute el servidor Kafka usando el comando:
 
     .\bin\windows\kafka-server-start.bat .\config\server.properties
 
-    ![image](https://github.com/fhernandez204/spring-boot-kafka/blob/main/kafka4.jpg)
+![image](https://github.com/fhernandez204/spring-boot-kafka/blob/main/kafka4.jpg)
 
     Ahora kafka esta Corriendo y listo para transmitir datos.
 
