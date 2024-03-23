@@ -41,6 +41,7 @@ Para la instalacion, realice los siguentes pasos:
 
     Ahora kafka esta Corriendo y listo para transmitir datos.
 
+Create a Configuration file named KafkaConfig. Below is the code for the KafkaConfig.java file.
 
 
 
