@@ -22,7 +22,7 @@ Para la instalacion, realice los siguentes pasos:
 
   Paso 3: Copie el  path o ruta de la carpeta Kafka. Ahora vaya a la configuración dentro de la carpeta kafka y abra el archivo zookeeper.properties. Copie la ruta en el campo dataDir y agregue /zookeeper-data a la ruta.
 
-    ![image](https://github.com/fhernandez204/spring-boot-kafka/blob/main/kafka2.jpg)
+![image](https://github.com/fhernandez204/spring-boot-kafka/blob/main/kafka2.jpg)
 
   Por ejemplo si la ruta es c:/kafka
 
